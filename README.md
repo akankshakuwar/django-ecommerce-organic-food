@@ -7,8 +7,9 @@ What It Does
 Fresh Fields is a web application designed to provide a seamless eCommerce experience for ordering fresh, organic fruits and vegetables directly from farms. The platform allows users to:
 
 Sign in & login securely.
+
 ![Screenshot 2025-03-30 191025](https://github.com/user-attachments/assets/236c22f8-82a8-4ce0-9bbe-7e3482825ae8)
-![Screenshot 2025-03-30 191236](https://github.com/user-attachments/assets/a2ce40a5-68ee-40c6-b577-dffafc70cb5c)
+![Screenshot 2025-03-30 194200](https://github.com/user-attachments/assets/828e750a-8c99-401d-9f15-74603ffa8f18)
 ![Screenshot 2025-03-30 191332](https://github.com/user-attachments/assets/97511dd3-a0aa-4c07-983b-ae9344ad6a56)
 ![Screenshot 2025-03-30 191400](https://github.com/user-attachments/assets/a6f264f8-d612-4f6d-99a2-e4ad7001af78)
 
